@@ -79,7 +79,7 @@ header h1 {
 header h2 {
   font-size: 22px;
   font-weight: normal;
-  line-height: 0.5;
+  line-height: 1;
   color: #aaa;
   letter-spacing: -1px;
 }

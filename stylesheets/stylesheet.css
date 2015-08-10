@@ -374,6 +374,7 @@ footer a:hover {
 
 .title {
   float: right;
+  vertical-align: middle;
 }
 
 .bannercontainer {

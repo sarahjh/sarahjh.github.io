@@ -379,3 +379,8 @@ footer a:hover {
 .bannerpic {
   width: 100%;
 }
+
+.navigation {
+  height:100px;
+  width:100%;
+}

@@ -377,7 +377,8 @@ footer a:hover {
 }
 
 .bannerpic {
-  height:600px;
+  height: 500px;
+  overflow: hidden;
   width: 100%;
 }
 

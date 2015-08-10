@@ -373,5 +373,9 @@ footer a:hover {
 @media only screen and (max-width: 479px) { }
 
 .title {
-	float: right;
+  float: right;
+}
+
+.bannerpic {
+  width: "100%";
 }

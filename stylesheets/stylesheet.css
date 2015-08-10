@@ -377,10 +377,11 @@ footer a:hover {
 }
 
 .bannerpic {
+  height:500px;
   width: 100%;
 }
 
 .navigation {
   height:100px;
-  width:100%;
+  width:85%;
 }

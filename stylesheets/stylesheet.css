@@ -377,13 +377,13 @@ footer a:hover {
 }
 
 .bannercontainer {
-  height: 420px;
+  height: 450px;
   overflow: hidden;
 }
 
 .bannerpic {
   width: 100%;
-  height: 550px;
+  height: 600px;
   vertical-align: middle;
 }
 

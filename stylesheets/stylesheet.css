@@ -413,7 +413,7 @@ footer a:hover {
   width:100%;
 }
 
-.bannerpic: hover {
+.bannerpic:hover {
   -webkit-filter: grayscale(0%);
   -webkit-transition: .5s ease-in-out;
   -moz-filter: grayscale(0%);

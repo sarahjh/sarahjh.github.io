@@ -2,6 +2,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -22,6 +23,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 	border: 0;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -53,11 +55,9 @@ body {
   line-height: 1.5;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-  background: #F4F0EC;
+  background: #FEFEFA;
 }
 /*#FEFEFA is a good alternative color - Baby Powder*/
-/*#FFF5EE is Seashell - pinkish light beige*/
-
 
 a {
   color: #d5000d;
@@ -85,11 +85,6 @@ header h2 {
   line-height: 1;
   color: #aaa;
   letter-spacing: -1px;
-}
-
-#container {
-  min-height: 595px;
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
 }
 
 .inner {
@@ -396,23 +391,23 @@ footer a:hover {
 }
 
 .box1 {
-  border: 1px #C3E4ED;
-  height:450px;
+  border: 1px #FFFFFF;
+  height:500px;
   width:100%;
   
 }
 .box2 {
-  background: #C3E4ED;
-  height:450px;
+  background: #FFFFFF;
+  height:500px;
   width:100%;
 }
 .box3 {
-  height:450px;
+  height:500px;
   width:100%;
 }
 .box4 {
-  background: #C3E4ED;
-  height:450px;
+  background: #FFFFFF;
+  height:500px;
   width:100%;
 }
 
